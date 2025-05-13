@@ -1,9 +1,9 @@
-# Business Health Assessment
+# Business Health App
 
 ## Setup
-1. Run `npm install`
+1. `npm install`
 2. Copy `.env.example` to `.env`
-3. Start with `npm run dev`
+3. Run `npm run dev`
 
-## Deploy on Vercel
-Add `VITE_ADMIN_PASSWORD` in environment settings.
+## Deploy
+Use Vercel, set `VITE_ADMIN_PASSWORD` in environment settings.

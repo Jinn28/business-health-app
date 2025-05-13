@@ -1,1 +1,2 @@
-// TODO: Add Navbar code
+// Placeholder Navbar
+export default function Navbar() { return <div>Navbar</div>; }

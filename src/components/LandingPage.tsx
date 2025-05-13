@@ -1,1 +1,2 @@
-// TODO: Add LandingPage code
+// Placeholder LandingPage
+export default function LandingPage() { return <div>Landing</div>; }
